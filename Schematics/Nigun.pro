@@ -1,4 +1,4 @@
-update=2016 December 13, Tuesday 13:24:41
+update=2016 December 31, Saturday 01:55:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=Nigun
 LibName31=hackrf
 LibName32=sma
 LibName33=atmel
+LibName34=/Users/raziele/ClonedReps/HACK/kicad/hack
