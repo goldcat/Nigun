@@ -19,7 +19,7 @@ All details should be updated here in the near future
 PCB design. Planning on ordering first prototype until the end of January 2017
 
 ## CREDITS
-* ELi B.Sh and J. for all the tips
+* All those who were patient enough to teach, review, and answer my endless questions
 * Michele Perla and his HACK project - for the Atmel SAMD21E reference design
 
 ## LICENSE
